@@ -1,0 +1,5 @@
+Previous section we specified the problem that we will solve. The problem was to find the coronavirüs patients location first.
+After finding the patients, showing them the nearest hospital to go. So for this we need patients' location and hospitals' locations.
+We can get hospitals' locations from Foursquare location data but there is no data to find which corona patient is where.
+And this is not too important because I will specify some locations for the patients in different places. 
+In this way, we can find the hospitals near to the patient and show the nearest one.
